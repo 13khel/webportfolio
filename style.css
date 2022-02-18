@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lora', serif;
+
+  }
+
+
+.logo{
+    width: 100px;
+    margin-left: 20px;
+}
+
+.pic{
+    height: 900px;
+
+}
+
+
+.carousel-inner img {
+  margin: auto;
+}
+.carousel {
+  width: 600px;
+  height:400px;
+}
+
+
+.carousel-control-prev{
+height: 225px;
+}
+
+.carousel-control-next{
+height: 225px;
+}
+
+.landing{
+  background-color: #154e72;
+}
+
+.projects{
+  background-color: #154e72;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.map{
+  border: 10px solid #0e2948;
+  padding: 0;
+  margin: 0;
+
+}
+
+.contactme{
+  background-color: #0e2948;
+  padding: 0;
+  margin: 0;
+
+}
+
+.spacing{
+    height: 100px;
+}
+footer{
+  width: 100%;
+  background-color: #0e2948;
+  bottom: 0;
+  background: linear-gradient(to right, #00a8a8,#0e2948,#09333f);
+  padding: 100px 0 30px;
+  font-style: 15px;
+  
+}
